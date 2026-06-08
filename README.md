@@ -14,6 +14,27 @@ A full-stack web application that helps users compare grocery prices across mult
 * REST API using Flask
 
 ## Tech Stack
+## How to Run Locally
+
+### Backend
+```
+cd server
+pip install flask flask-cors
+python app.py
+```
+Server runs at http://localhost:5000
+
+### Frontend
+```
+cd client
+npm install
+npm start
+```
+App opens at http://localhost:3000
+
+### Test the API
+http://localhost:5000/search?q=milk
+http://localhost:5000/products
 
 ### Frontend
 
