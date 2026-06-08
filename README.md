@@ -1,1 +1,62 @@
 # grocery-price-finder
+# 🛒 Grocery Price Finder
+
+A full-stack web application that helps users compare grocery prices across multiple platforms and identify the most cost-effective option.
+
+## Features
+
+* Product Search
+* Amazon vs Flipkart Price Comparison
+* Best Platform Recommendation
+* Savings Calculation
+* Smart Grocery Basket
+* Modern Responsive UI
+* REST API using Flask
+
+## Tech Stack
+
+### Frontend
+
+* React
+* JavaScript
+* CSS
+
+### Backend
+
+* Flask
+* Python
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Search Results
+
+![Search Results](screenshots/search-results.png)
+
+### Smart Basket
+
+![Basket](screenshots/basket.png)
+
+## Project Structure
+
+grocery-price-finder/
+├── client/
+├── server/
+├── screenshots/
+└── README.md
+
+## Future Enhancements
+
+* MongoDB Integration
+* Product Images
+* User Authentication
+* Price History Tracking
+* Budget Planner
+* AI Shopping Assistant
+
+## Author
+
+Rishita Jain
