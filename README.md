@@ -22,7 +22,7 @@ cd server
 pip install flask flask-cors
 python app.py
 ```
-Server runs at http://localhost:5000
+Server runs at http://127.0.0.1:5000
 
 ### Frontend
 ```
@@ -30,7 +30,7 @@ cd client
 npm install
 npm start
 ```
-App opens at http://localhost:3000
+App opens at  http://localhost:5173/  
 
 ### Test the API
 http://localhost:5000/search?q=milk
